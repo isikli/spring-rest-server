@@ -1,0 +1,3 @@
+RETFUL server for two resources Authors and Books
+Start the server with ./mvnw spring-boot:run
+Postgresql details are in application.properties
